@@ -1,0 +1,32 @@
+Info) VMD for LINUXAMD64, version 1.9.2 (December 29, 2014)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 4 CPUs detected.
+Info) Free system memory: 4997MB (63%)
+Warning) Detected a mismatch between CUDA runtime and GPU driver
+Warning) Check to make sure that GPU drivers are up to date.
+Info) No CUDA accelerator devices available.
+Warning) Detected X11 'Composite' extension: if incorrect display occurs
+Warning) try disabling this X server option.  Most OpenGL drivers
+Warning) disable stereoscopic display when 'Composite' is enabled.
+Info) OpenGL renderer: Gallium 0.4 on NV98
+Info)   Features: STENCIL MSAA(4) MDE CVA MTX NPOT PP PS GLSL(OVF) 
+Info)   Full GLSL rendering mode is available.
+Info)   Textures: 2-D (8192x8192), 3-D (512x512x512), Multitexture (8)
+Info) Dynamically loaded 2 plugins in directory:
+Info) /usr/local/lib/vmd/plugins/LINUXAMD64/molfile
+Info) File loading in progress, please wait.
+  The PDB is supported by RCSB, the NSF, US PHS, NIH, NCRP, NIGMS, NLM,
+and US DoE, who are not liable for the data.  PDB files shall not be
+sold.  See ftp://ftp.rcsb.org/advisory.doc for full details.
+Info) Using plugin webpdb for structure file main
+ERROR) BaseMolecule: init_atoms called with invalid number of atoms: 0
+ERROR) molecule_structure: Unable to read structure for molecule 0
+ERROR) molecule_structure: severe error indicated by plugin aborting loading of molecule 0
+ERROR) Loading of startup molecule files aborted.
+vmd > vmd > vmd > Info) VMD for LINUXAMD64, version 1.9.2 (December 29, 2014)
+Info) Exiting normally.
